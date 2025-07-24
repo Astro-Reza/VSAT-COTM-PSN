@@ -1,0 +1,1 @@
+This code used for initial calibration done by moving motors on all 6-DOF to collect data for Fusion between MPU6050 (Accelerometer & Gyroscope) and HMC5883L (Magnetometer).
